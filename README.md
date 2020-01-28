@@ -12,7 +12,7 @@
 - [License](#License)       
 
 ## About-Process    <div>    
-we'll be working with the following to correct this handshake issue.
+We'll be working with the following to correct this handshake issue.
 SQL Server Configuration Manager:
 Start – Programs – SQL Server 2005 – SQL Server Configuration Manager
 go to 'SQL Server 2005 Network Configuration', and look for 'Protocols for SQL2005',
